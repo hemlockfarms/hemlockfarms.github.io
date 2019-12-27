@@ -1,0 +1,23 @@
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           pretty
+
+# Setup
+title:               Hemlock Farms
+tagline:             ''
+description:         ''
+url:                 https://hemlockfarms.github.io
+baseurl:             ''
+paginate:            5
+
+# About/contact
+author:
+  name:              Jason Walsh
+  url:               ''
+  email:             ''
+
+# Custom vars
+version:             1.0.0
+
+plugins: [jekyll-paginate]
