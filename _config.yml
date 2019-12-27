@@ -8,7 +8,7 @@ title:               Hemlock Farms
 tagline:             ''
 description:         ''
 url:                 https://hemlockfarms.github.io
-baseurl:             ''
+baseurl:             https://hemlockfarms.github.io
 paginate:            5
 
 # About/contact
